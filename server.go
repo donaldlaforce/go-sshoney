@@ -6,7 +6,7 @@ import (
 	"net"
 	"strings"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	"golang.org/x/crypto/ssh"
 	// "github.com/davecgh/go-spew/spew"
 )
